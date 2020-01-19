@@ -1,6 +1,6 @@
 # Plotting Results for Parallelization of a Hartree-Fock Proxy Application
 
-NOTE: This code is still in development for use in Jenna Delozier's undergraduate senior thesis. It does not run yet.
+D I S C L A I M E R: This code is still in development for use in Jenna Delozier's undergraduate senior thesis. It does not run yet.
 
 Files listed here:
 
