@@ -1,6 +1,6 @@
 # Plotting Results for Parallelization of a Hartree-Fock Proxy Application
 
-D I S C L A I M E R: This code is still in development for use in Jenna Delozier's undergraduate senior thesis. It does not run yet.
+D I S C L A I M E R: This code is still in development for use in Jenna Delozier's undergraduate senior thesis. It does not run yet. The idea is to run the Hartree-Fock proxy application, read the number of hard-coded OpenMP threads from the source code, and read the mean runtime across all threads from NVProf. Then, several data points will be plotted.
 
 Files listed here:
 
