@@ -4,11 +4,11 @@ D I S C L A I M E R: This code is still in development for use in Jenna Delozier
 
 Files listed here:
 
-  hf.cc: A dummy file that has the variable used for the x-axis.
+  hf.cc: A placeholder file that contains the variable used for the x-axis, which we will retrieve with script.sh. This file will eventually be replaced by the actual proxy app.
 
   script.sh: A shell script that retrieves the value of the variable used for the x-axis.
 
-  plot-hf.py: A small Python program to plot OpenMP threads against mean runtime across all threads.
+  plot-hf.py: A small Python program to plot the number of OpenMP threads against mean runtime across all threads.
 
 
 Running: python3 plot-hf.py
