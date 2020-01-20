@@ -1,5 +1,12 @@
 #!/usr/bin/python
 
+#Author: Jenna Delozier
+#
+#A small program to get data for plotting number of OpenMP
+#threads against mean runtime across all threads. 
+#
+#
+
 import threading
 import time
 from subprocess import Popen, PIPE
